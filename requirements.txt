@@ -11,3 +11,5 @@ sodapy==2.2.0
 seaborn
 plotly
 ydata-profiling
+rtree==1.4.1
+bokeh==2.4.0
